@@ -1,2 +1,3 @@
 # gitPT_remoto
-ghfcfbstedjymfhbfghteynbvdfaewgheyrjnfhgbretyhr
+
+he añadido al js un bol
